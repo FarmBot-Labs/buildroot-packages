@@ -1,0 +1,5 @@
+menu "Farmbot Packages"
+
+source "$NERVES_DEFCONFIG_DIR/buildroot-packages/opencvfb/Config.in"
+
+endmenu
